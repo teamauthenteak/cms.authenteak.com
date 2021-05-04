@@ -1,0 +1,8 @@
+baseUrl: $PRIMARY_SITE_URL
+handle: default
+hasUrls: true
+language: en-US
+name: authenTEAK
+primary: true
+siteGroup: 18beef65-e15b-49a1-8ff4-fbd389954b93 # authenTEAK
+sortOrder: 1
